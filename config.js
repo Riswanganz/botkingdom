@@ -80,15 +80,15 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 
-global.packname = 'BOT KINGDOM'
+global.packname = 'BOT WANZ'
 
-global.author = '❤️'
+global.author = 'Wanz'
 
-global.wm = 'ＢＯＴ ＫＩＮＧＤＯＭ'
+global.wm = 'BOT WANZ'
 
 global.media = 'https://telegra.ph/file/4475cfb321abebedc758d.jpg'
 
-global.instagram = 'https://instagram.com/supuna808'
+global.instagram = 'https://instagram.com/memes.lucu01'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
